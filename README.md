@@ -1,3 +1,9 @@
+
+该仓库fork自mcjs
+源地址：https://github.com/asdfghjkl426/mc.js
+
+
+
 # MCJS 官方 GitHub 仓库
 
 ## 此仓库目前仅用于 issues 反馈，不提供源代码
